@@ -5,7 +5,7 @@ export const projects = [
     description:
       "QuizShow is an online study platform I developed using React. It provides an interactive and engaging way for users to learn and test their knowledge on various subjects. Check it out here.",
     image: "./project-1.gif",
-    link: "https://site-ime-bafoussam-ojbz.vercel.app",
+    link: "https://quizshow-ashy.vercel.app",
   },
   {
     title: "HTML/CSS & JS",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "IME is a website I developed for presenting a school. It provides comprehensive information about the school, its programs, faculty, and more. Visit the site here.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://site-ime-bafoussam-ojbz.vercel.app",
   },
   {
     title: "HTML/CSS ",
@@ -38,23 +38,33 @@ export const testimonials = [
     quote:
       "I’ve had the pleasure of working with Ronaldo on several projects. His passion for programming is evident in every line of code he writes. He’s not just a programmer, but a creative problem solver who isn’t afraid to think outside the box. His dedication and work ethic are truly commendable. I look forward to our future collaborations.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "PONE FREDY",
+    company: "Freelance",
   },
   {
     quote:
       "Ronaldo’s work is a testament to his love for programming. His attention to detail, innovative thinking, and relentless pursuit of excellence set him apart in this field. He’s not only a talented programmer but also a great team player who’s always ready to help. Working with him has been an absolute joy.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "RIVALDES TIYO",
+    company: "Cetha",
   },
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "HTML/CSS",
+  "JAVASCRIPT",
+  "JAVA",
+  "PYTHON",
+  "C/C++",
+  "PHP",
 ];
+
+export const skillsback = ["NODES JS", "SPRING BOOT", "FIREBASE"];
+export const skillfront = [
+  "REACT JS & NATIVE",
+  "FLUTTER",
+  "ANGULAR",
+  "VUE JS",
+  "TAILWIND CSS & BOOSTRAP",
+];
+export const skilldb = ["MYSQL", "MONGODB"];
